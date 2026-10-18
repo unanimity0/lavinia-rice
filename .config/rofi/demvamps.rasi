@@ -1,0 +1,14 @@
+*{
+	background-color: #000000;
+	text-color: #ffffff;
+	border-color: #dc143c;
+}
+
+window {
+	border: 2px;
+	background-color: rgba(0,0,0,0.95);
+}
+element selected{
+	background-color: #dc143c;
+	text-color: #000000;
+}
