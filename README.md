@@ -2,8 +2,6 @@
 
 A high-contrast, aggressive minimalist Wayland setup built on CachyOS. The color palette revolves around a stark, solid pitch-black background paired exclusively with crimson red text, icons, and accents.
 
-![Desktop Showcase](link_to_your_clean_screenshot.png)
-*(Replace the link above with the actual image link once uploaded)*
 
 ## ⚙️ Setup Details
 * **OS:** CachyOS (Arch Linux)
@@ -18,7 +16,6 @@ A high-contrast, aggressive minimalist Wayland setup built on CachyOS. The color
 * `.config/hypr/` - Core window manager rules, keybinds, and autostart variables.
 * `.config/nwg-panel/` - The DemVAMPS crimson/black CSS styling and layout configuration.
 * `.config/rofi/` - App launcher theming.
-* `wallpapers/` - Contains `lavinia.png`.
 
 ## 🛠️ Installation Notes
 If you want to replicate this aesthetic on your own machine:
